@@ -1,7 +1,0 @@
-typing_speed,hesitation_time,backspace_count,mouse_speed,navigation_randomness,transaction_amount,otp_view_count,rapid_switching,risk_label
-4.5,1,2,120,0.1,2500,1,0,normal
-4.2,2,1,115,0.2,3000,1,0,normal
-4.8,1,1,110,0.1,1800,1,0,normal
-1.1,9,12,300,0.9,75000,5,1,fraud
-1.4,8,10,280,0.8,65000,4,1,fraud
-1.8,7,9,260,0.7,55000,4,1,fraud
